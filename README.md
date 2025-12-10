@@ -274,8 +274,3 @@ Deberías ver algo como:
 * Agrega portadas predeterminadas a historias sin imagen
 * Crea un sistema de “likes” o “comentarios”
 * Sube a producción (Render, Vercel, Railway, Atlas)
-
----
-
-¿Quieres que te dé ahora el **backend completo (server.js, modelos y rutas)** para conectar todo?
-Así ya puedes subir historias reales con imágenes y autenticación.
